@@ -56,7 +56,7 @@ Portfolio showcasing my projects as a Data Analyst. Highlights include Power BI 
 
  </p>
     <p><strong>Tools Used:</strong> Microsoft Excel</p>
-    <p><strong>Repository:</strong> <a href="monthly-expenses-dashboard"</a></p>
+    <p><strong>Repository:</strong> <a href="">monthly-expenses-dashboard/Personal Monthly Expenses Dashboard.JPG</a></p>
    <h3><strong> Key Findings</strong></h3>
       <p><strong> Expense Distribution: </strong> Clear breakdown of monthly expenses, highlighting major spending areas (e.g., rent, utilities, groceries).</p>
       <p><strong> Savings Insights:</strong> Identified potential areas for cutting costs to optimize savings.</p>
@@ -94,4 +94,5 @@ Portfolio showcasing my projects as a Data Analyst. Highlights include Power BI 
 
 <h2><strong>Contact</strong></h2>
 <p><strong>Email:</strong> hussainistephenj@gmail.com</p>
-<p><strong>LinkedIn:</strong> <a href="">(https://www.linkedin.com/in/stephen-hussaini-067740260/)</a></p>
+<p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/stephen-hussaini-067740260/" > Stephen's LinkedIn</a></p>
+<p><strong>Kaggle:</strong> <a href="https://www.kaggle.com/stephenhussaini)" >Stephen's Kaggle Profile </a><p>
